@@ -1,15 +1,15 @@
 /*  your css code here. If applicable */
-#y{
+#yellow{
 	background-color:yellow;
 	border-width:1px;
 	border-color:green;
 }
-#o{
+#red{
 	background-color:red;
 	border-width:1px;
 	border-color:black;
 }
-#g{
+#green{
 	background-color:green;
 	border-width:1px;
 	border-color:yellow;
